@@ -1,0 +1,16 @@
+{
+  "name": "final_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Rahul Kumar Goel",
+  "license": "ISC",
+  "homepage": "https://rahulgoel007.github.io/final_webpage/",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
